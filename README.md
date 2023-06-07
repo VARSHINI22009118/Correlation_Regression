@@ -57,6 +57,8 @@ plt.plot(x,y1,'r')
 plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
+
+
 ```
 # output :
 ![image](https://github.com/VARSHINI22009118/Correlation_Regression/assets/119401150/66973a6e-330b-4230-ac11-aae76e7d5a08)
